@@ -5,6 +5,7 @@
 cd chemin_vers_le_dossier_htdocs
 ```
 composer create project symfony-skeleton nom_du_projet
+````
 
 ## GIT / GITHUB
 
